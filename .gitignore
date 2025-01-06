@@ -169,3 +169,11 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Evitar aquivos desnecessarios no github
+
+.vscode/
+.ipynb_checkpoints/
+venv/
+__pycache__/
+*.pyc
