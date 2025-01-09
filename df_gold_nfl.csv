@@ -1,0 +1,33 @@
+league,division,position,team,won,lost,points_for,points_against,points_difference
+NFL,AFC East,1,Buffalo Bills,13,4,525,368,157
+NFL,AFC East,2,Miami Dolphins,8,9,345,364,-19
+NFL,AFC East,3,New York Jets,5,12,338,404,-66
+NFL,AFC East,4,New England Patriots,4,13,289,417,-128
+NFL,AFC North,1,Baltimore Ravens,12,5,518,361,157
+NFL,AFC North,2,Pittsburgh Steelers,10,7,380,347,33
+NFL,AFC North,3,Cincinnati Bengals,9,8,472,434,38
+NFL,AFC North,4,Cleveland Browns,3,14,258,435,-177
+NFL,AFC South,1,Houston Texans,10,7,372,372,0
+NFL,AFC South,2,Indianapolis Colts,8,9,377,427,-50
+NFL,AFC South,3,Jacksonville Jaguars,4,13,320,435,-115
+NFL,AFC South,4,Tennessee Titans,3,14,311,460,-149
+NFL,AFC West,1,Kansas City Chiefs,15,2,385,326,59
+NFL,AFC West,2,Los Angeles Chargers,11,6,402,301,101
+NFL,AFC West,3,Denver Broncos,10,7,425,311,114
+NFL,AFC West,4,Las Vegas Raiders,4,13,309,434,-125
+NFL,NFC East,1,Philadelphia Eagles,14,3,463,303,160
+NFL,NFC East,2,Washington Commanders,12,5,485,391,94
+NFL,NFC East,3,Dallas Cowboys,7,10,350,468,-118
+NFL,NFC East,4,New York Giants,3,14,273,415,-142
+NFL,NFC North,1,Detroit Lions,15,2,564,342,222
+NFL,NFC North,2,Minnesota Vikings,14,3,432,332,100
+NFL,NFC North,3,Green Bay Packers,11,6,460,338,122
+NFL,NFC North,4,Chicago Bears,5,12,310,370,-60
+NFL,NFC South,1,Tampa Bay Buccaneers,10,7,502,385,117
+NFL,NFC South,2,Atlanta Falcons,8,9,389,423,-34
+NFL,NFC South,3,Carolina Panthers,5,12,341,534,-193
+NFL,NFC South,4,New Orleans Saints,5,12,338,398,-60
+NFL,NFC West,1,Los Angeles Rams,10,7,367,386,-19
+NFL,NFC West,2,Seattle Seahawks,10,7,375,368,7
+NFL,NFC West,3,Arizona Cardinals,8,9,400,379,21
+NFL,NFC West,4,San Francisco 49ers,6,11,389,436,-47
